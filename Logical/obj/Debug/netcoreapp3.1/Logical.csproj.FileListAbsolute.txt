@@ -1,0 +1,14 @@
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.exe
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.deps.json
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.runtimeconfig.json
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.runtimeconfig.dev.json
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.dll
+D:\Test_inmar\Logical\bin\Debug\netcoreapp3.1\Logical.pdb
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.csproj.AssemblyReference.cache
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.AssemblyInfoInputs.cache
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.AssemblyInfo.cs
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.csproj.CoreCompileInputs.cache
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.dll
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.pdb
+D:\Test_inmar\Logical\obj\Debug\netcoreapp3.1\Logical.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IFku3A49W02F9vnT8D+Vi+jsgsBn9x8TXq0+mk4/i2u5sMJDP5RA6UPdOWHimwQLWR/KtDaTYxentCyxb/ntQ==",
+  "success": true,
+  "projectFilePath": "D:\\Test_inmar\\Logical\\Logical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
